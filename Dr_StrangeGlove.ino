@@ -1,5 +1,7 @@
 // To be used on Adafruit Gemma in a Dr. Strange costume
 // Visit http://www.instructables.com/id/Dr-Strange-Costume/
+// Utilizes optimized libraries by tdicola (https://github.com/adafruit/TinyWireM)
+// and evilmachina (https://github.com/evilmachina/TinyLSM303) to help conserve precious sketch space.
 
 #include <TinyWireM.h>
 #include <USI_TWI_Master.h>
